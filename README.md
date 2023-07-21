@@ -30,4 +30,4 @@ Many individuals struggle with stress, anxiety, depression, and other mental hea
 ## Output Representation
 
 ![pie](https://github.com/Raghavcpp/IBM_SkillBuild_Project/blob/main/Output/5.png)
-![line graph](https://github.com/Raghavcpp/IBM_SkillBuild_Project/blob/main/Output/5.png)
+![line graph](https://github.com/Raghavcpp/IBM_SkillBuild_Project/blob/main/Output/7.png)
